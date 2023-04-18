@@ -7,6 +7,15 @@ router.get("/", function (req, res) {
 	res.status(200).json(books);
 });
 
+statusJSON = { 
+	"status": "OK",
+	"message": "Everything is fine!"
+}
+
+router.get("/status", function (req, res) {
+	res.status(200).json(statusJSON);
+});
+
 router.get("/:id", function (req, res) {
 	let book = books.find(function (item) {
 		return item.id == req.params.id;

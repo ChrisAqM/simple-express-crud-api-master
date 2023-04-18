@@ -58,7 +58,7 @@ router.put("/:id", function (req, res) {
 
 		books.splice(books.indexOf(book), 1, updated);
 
-		res.sendStatus(204);
+		res.status(204).json(book);
 	} else {
 		res.sendStatus(404);
 	}

@@ -1,4 +1,13 @@
-# simple-express-crud-api #
+# IDS351-ProyectoFinal-Grupo3 #
+
+## GRUPO 3 ##
+
+* José González 1100263
+* Nathalie Elías 1098163
+* Christian Aquino 1099784
+* Amelia Cepeda 1099855
+
+## simple-express-crud-api ##
 
 This is just a simple CRUD API of Books made with Express. The aim is to provide an API as starting point to other implementations or tests.
 

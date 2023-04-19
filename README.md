@@ -25,3 +25,7 @@ To start it, install Node and run:
 - [Postman](https://ids328l.postman.co/workspace/IDS351---Proyecto-Final~df0dd495-e9b3-43ed-b247-598dd761d13f/collection/26691196-2c2d8fb1-56bd-4f82-a61e-80eb9bdd64a5?action=share&creator=26691196)
 - [Simple Books API Documentation](https://github.com/ChrisAqM/simple-express-crud-api-master/blob/main/simple-books-api.md)
 - [Reporte de ejecución de Pruebas](https://estintecedu-my.sharepoint.com/:u:/g/personal/1099784_est_intec_edu_do/ERgtJRF2MqBFgwOREtedCn0B_aLR5i-3PeqqzjNU0fYN0A?e=aZrwWH)
+
+### Nota ###
+
+Para visualizar el reporte de ejecución de pruebas debe de descargar el archivo .html y abrirlo en su navegador.

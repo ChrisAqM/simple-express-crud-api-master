@@ -2,27 +2,27 @@
 
 Esta API te permite interactuar con una base de datos de libros. Puedes ver una lista de libros, ver los detalles de un libro, y añadir, actualizar y eliminar libros.
 
-## Endpoints ##
+## **Endpoints** ##
 
-### Status ###
+### **Status** ###
 
 GET `/status`
 
 Regresa el Status de la API.
 
-### Lista de libros ###
+### **Lista de libros** ###
 
 GET `/`
 
 Regresa una lista de los libros.
 
-### Ver los detalles de un libro específico ###
+### **Ver los detalles de un libro específico** ###
 
 GET `/:bookId`
 
 Regresa información detallada de un libro.
 
-### Submit an order ###
+### **Añadir libro** ###
 
 POST `/`
 
